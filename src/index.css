@@ -1,0 +1,14 @@
+body {
+  color: #aaabac;
+  width: 100vw;
+  overflow-x: hidden;
+}
+
+header {
+  color: #7d7e7f;
+  height: 40vh;
+}
+
+button {
+  cursor: pointer;
+}
